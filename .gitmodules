@@ -1,3 +1,7 @@
 [submodule "lib/editor/tiny/plugins/iorad"]
 	path = lib/editor/tiny/plugins/iorad
 	url = /home/pujangga/projects/iorad/iorad-tiny-editor/
+[submodule "lib/editor/atto/plugins/iorad"]
+	path = lib/editor/atto/plugins/iorad
+	url = /home/pujangga/projects/iorad/iorad-atto-editor
+	branch = develop
